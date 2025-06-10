@@ -2,6 +2,8 @@
 
 A modern, lightweight, and scalable starter template for building web applications and games using **React 18**, **Vite**, **TailwindCSS**, and **Material UI**.
 ---
+![image](https://github.com/user-attachments/assets/f99ef000-d3d8-4659-b2b7-98cb2b3497c7)
+
 ## 📁 Project Structure
 ```
 .
